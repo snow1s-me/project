@@ -1,5 +1,6 @@
 import math
 
+
 def solve_quadratic(a, b, c):
     D = b**2 - 4*a*c
     print(f"Дискримінант: D = {D}")
